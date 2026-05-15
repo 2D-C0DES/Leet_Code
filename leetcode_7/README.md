@@ -1,4 +1,4 @@
-# Reverse Integer (LeetCode Problem)
+# 7. Reverse Integer (LeetCode Problem)
 
 Problem:
 
